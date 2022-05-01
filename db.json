@@ -1,5 +1,11 @@
 {
 	"users": [
-		
+		{
+		 	"id": 1,
+			"name": "Yan",
+			"sirname": "Shut",
+			"photo_url" : "https://raw.githubus...",
+			"balance": 123
+		}
 	]
 }
