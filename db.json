@@ -17,6 +17,29 @@
 		}
 	],
 	"products": [
-		
+		{
+			"id": 1,
+			"name": "LED Display",
+			"description": "Can display ...",
+			"price": 92,
+			"author_id": 1,
+			"photo_url": ""
+		},
+		{
+			"id": 2,
+			"name": "Arduino UNO",
+			"description": "Brand new and high quality",
+			"price": 180,
+			"author_id": 1,
+			"photo_url": ""
+		},
+		{
+			"id": 3,
+			"name": "RGB bumb",
+			"description": "Сan glow in any color ",
+			"price": 50,
+			"author_id": 1,
+			"photo_url": ""
+		}
 	]
 }
