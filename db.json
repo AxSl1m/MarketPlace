@@ -17,6 +17,8 @@
 		}
 	],
 	"products": [
-		
+		"id": 2,
+		"name": "milk",
+		"description": "it is good"
 	]
 }
