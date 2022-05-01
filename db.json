@@ -7,5 +7,13 @@
 			"photo_url" : "https://raw.githubus...",
 			"balance": 123
 		}
+
+		{
+			"id": 2,
+			"name": "Danyil",
+			"photo_url": "https://avatars.githubusercontent.com/u/103880260?v=4",
+			"balance": 1500
+
+		}
 	]
 }
