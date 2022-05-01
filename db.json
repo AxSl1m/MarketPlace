@@ -17,7 +17,6 @@
 		}
 	],
 	"products": [
-<<<<<<< HEAD
 		{
 			"id": 1,
 			"name": "LED Display",
@@ -42,10 +41,15 @@
 			"author_id": 1,
 			"photo_url": ""
 		}
-=======
-		"id": 2,
-		"name": "milk",
-		"description": "it is good"
->>>>>>> 3abd1838367fbbbe2267b6ccbb71916c00d658ff
+		{
+			"id": 4,
+			"name": "computer mouse",
+			"description": "It can help you",
+			"price": 500,
+			"author_id": 2,
+			"photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/A_computer_mouse%2C_black_and_white%2C_retouched%2C_keyboard_visible_in_background.jpg/330px-A_computer_mouse%2C_black_and_white%2C_retouched%2C_keyboard_visible_in_background.jpg"
+		}
+
+
 	]
 }
