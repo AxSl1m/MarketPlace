@@ -17,6 +17,7 @@
 		}
 	],
 	"products": [
+<<<<<<< HEAD
 		{
 			"id": 1,
 			"name": "LED Display",
@@ -41,5 +42,10 @@
 			"author_id": 1,
 			"photo_url": ""
 		}
+=======
+		"id": 2,
+		"name": "milk",
+		"description": "it is good"
+>>>>>>> 3abd1838367fbbbe2267b6ccbb71916c00d658ff
 	]
 }
