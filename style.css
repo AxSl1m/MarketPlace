@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ul {
 	width: 250px;
 	list-style: none;
@@ -12,3 +13,8 @@ body{
 	text-align: center;
 	background-color: #d7c0bb
 }
+=======
+body{
+	background-color: yellow;
+}
+>>>>>>> e9c180aa5df9489904ffa15bb94b8e8ab15d4254
